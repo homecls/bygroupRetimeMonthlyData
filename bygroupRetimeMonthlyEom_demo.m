@@ -1,5 +1,5 @@
 %% Test Paneltable class
-% function paneltable_demo 
+% function paneltable_demo    
 %%
 clc;clear; close all;
 %%
