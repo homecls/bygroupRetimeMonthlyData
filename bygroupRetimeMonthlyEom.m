@@ -1,5 +1,5 @@
 %% *'bygroupRetimeMonthlyEom.m'*: Fillmissing of time in monthly panel data
-%% 1 Objective  new
+%% 1 Objective  new  ÊÇµÄ
 %
 % For every city or group, this function make sure that each year have
 % 12 months
