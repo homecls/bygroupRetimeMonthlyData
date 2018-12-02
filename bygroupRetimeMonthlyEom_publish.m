@@ -1,7 +1,6 @@
-%% Test Paneltable class
-% function paneltable_demo
-%%
-clc;clear; close all; 
+%% Test bygroupRetimeMonthlyEom
+%% 
+clc;clear; close all;     
 %%
 % Name = ["a";"b";"c"];
 % Province = ["北京";"浙江";"浙江"];
